@@ -10,9 +10,11 @@ public repository to request checks via Vanessa Torpedo
 
 ## Russian
 
-публичный репозиторий для заказа проверок продукта Vanessa Torpedo
+публичный репозиторий для заказа проверок продукта **Vanessa Torpedo**
 
-список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl (требуется акаунт GitHub Для входа)
+* список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl (требуется акаунт GitHub Для входа)
+
+* коммерческие контакты - `b2b@silverbulleters.org` и `+74993467019`
 
 ### Функциональность (для НЕ понимающих)
 
@@ -38,7 +40,7 @@ SonarQube для 1С поддерживает
 
 | ERP 2.1 | БП КОРП 3 |
 |---------|-----------|
-| 1 час 17 минут - 5.3+ миллиона строк | 29 минут - 3.4+ миллиона строк |
+| 45 минут - 5.3+ миллиона строк | 29 минут - 3.4+ миллиона строк |
 
 Последующие анализы проходят быстро - больше помещений: быстрей анализ.
 Как ориентир - `30.000 строк кода - 15 секунд.`
@@ -97,7 +99,9 @@ SonarQube для 1С поддерживает
 * наше **открытое** расширение для Visual Studio Code для онлайн исправления замечаний https://github.com/silverbulleters/sonarqube-inject-vsc
 * развивающийся открытый проект для управления качеством требований https://github.com/racodond/sonar-gherkin-plugin/
 * Использования для C++ и PVC Studio https://habrahabr.ru/company/pvs-studio/blog/315422/
-* Вот как это можнос сделать на PHP https://habrahabr.ru/post/259149/
+* Вот как это можно сделать на PHP https://habrahabr.ru/post/259149/
+
+для снижения порога вхождения в технологию - посмотрите вебинар http://infostart.ru/webinars/571342/
 
 ## Обсуждение продукта на русском
 
