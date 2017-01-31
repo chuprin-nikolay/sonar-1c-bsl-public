@@ -6,7 +6,24 @@
 
 ## English
 
-public repository to request checks via Vanessa Torpedo
+SonarQube for 1C:Enterprise support calculate metrics on 1C:BSL lang and for 1C:Querry lang on:
+
+* duplcation
+* complexity
+* cognitive complexity
+* code coverage
+* techdebt
+
+contains:
+
+* over 150 rules to check - current list publuished on our sonarqube server https://sonar.silverbulleters.org/coding_rules#languages=bsl (you need a GitHub account to login)
+
+this is public repository and page for
+
+* main description of plugin
+* request checks via Vanessa Torpedo 
+* release anonsements
+* social activity for SonarQube Russia
 
 ## Russian
 
@@ -14,7 +31,8 @@ public repository to request checks via Vanessa Torpedo
 
 * список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl (требуется акаунт GitHub Для входа)
 
-* коммерческие контакты - `b2b@silverbulleters.org` и `+74993467019`
+* коммерческие контакты - `b2b@silverbulleters.org` 
+* `+7(499)346-7019` и '8-800-100-1305'
 
 ### Функциональность (для НЕ понимающих)
 
@@ -24,8 +42,9 @@ SonarQube для 1С поддерживает
   * на дублирование
   * на запутанность
   * на ошибки, критические баги и просто недочёты
-  * на замечания по стандартам ИТС, по Вашим внутренним стандартам и дополнительно по стандартам разработанным командой **SilverBullete's**  
+  * на замечания по стандартам ИТС, по Вашим внутренним стандартам и дополнительно по стандартам разработанным командой **SilverBulleter's**  
   * на расчёт покрытия кода тестами и проверками поведения (с помощью проектов VanessaBehavior и xUnitFor1C)
+  * на предмет **когнитивной сложности** (https://blog.sonarsource.com/cognitive-complexity-because-testability-understandability/)
   
 а также
 
@@ -107,6 +126,7 @@ SonarQube для 1С поддерживает
 
 * в чате https://gitter.im/silverbulleters/sonar-1c-bsl-public
 * на форуме https://xdd.silverbulleters.org/t/bazovye-veshhi-sonarqube/533
+* ответы на базовые вопросы накапливаются [в центре поддержке](http://help.silverbulleters.org/sonar-qube-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)
 
 ## Публичные видео
 
