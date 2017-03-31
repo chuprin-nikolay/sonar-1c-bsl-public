@@ -138,7 +138,6 @@ SonarQube для 1С поддерживает
 
 * наше **открытое** расширение для поддержки русскоязычных пользователей https://github.com/silverbulleters/sonar-l10n-ru
 * наше **открытое** расширение для Visual Studio Code для онлайн исправления замечаний https://github.com/silverbulleters/sonarqube-inject-vsc
-* развивающийся открытый проект для управления качеством требований https://github.com/racodond/sonar-gherkin-plugin/
 * Использования для C++ и PVC Studio https://habrahabr.ru/company/pvs-studio/blog/315422/
 * Вот как это можно сделать на PHP https://habrahabr.ru/post/259149/
 
