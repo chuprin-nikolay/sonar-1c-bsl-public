@@ -53,7 +53,7 @@ SonarQube для 1С поддерживает
 
 и еще многое другое 
 
-## Техническая ифнормация и план релизов
+## Техническая информация и план релизов
 
 * поддерживаемые версии SonarQube - **6.1, 6.2, 6.3**
 * в состав продукта входят:
@@ -102,7 +102,7 @@ SonarQube для 1С поддерживает
 
 ## Компоненты SonarQube
 
-* опционально: Хранилище 1С с подключенным поектов GITSYNC http://oscript.io/library/package/gitsync
+* опционально: Хранилище 1С с подключенным поектом GITSYNC http://oscript.io/library/package/gitsync
 * Git репозиторий - как хранилище исходных кодов и авторов
 * сервер CI - любой с поддержкой SonarRunner http://docs.sonarqube.org/display/SONAR/Analyzing+Source+Code
   * http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
@@ -130,7 +130,7 @@ SonarQube для 1С поддерживает
   * TeamCity
   * Bamboo
 
-для реликации 1С кода из хранилища 1С используется проект [GitSync](https://github.com/oscript-library/gitsync) или продукт [Vanessa Tools для VSTS](https://silverbulleters.org/vannessavsts)
+для репликации 1С кода из хранилища 1С используется проект [GitSync](https://github.com/oscript-library/gitsync) или продукт [Vanessa Tools для VSTS](https://silverbulleters.org/vannessavsts)
 
 ### Дополнительные ссылки
 
