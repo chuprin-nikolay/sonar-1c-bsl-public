@@ -102,7 +102,7 @@ SonarQube для 1С поддерживает
 
 ## Компоненты SonarQube
 
-* опционально: Хранилище 1С с подключенным поектом GITSYNC http://oscript.io/library/package/gitsync
+* опционально: Хранилище 1С с подключенным проектом GITSYNC http://oscript.io/library/package/gitsync
 * Git репозиторий - как хранилище исходных кодов и авторов
 * сервер CI - любой с поддержкой SonarRunner http://docs.sonarqube.org/display/SONAR/Analyzing+Source+Code
   * http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
