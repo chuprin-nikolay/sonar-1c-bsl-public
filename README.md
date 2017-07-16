@@ -29,8 +29,7 @@ this is public repository and page for
 
 публичный репозиторий для заказа проверок продукта **Vanessa Torpedo**
 
-* список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl (требуется акаунт GitHub Для входа)
-
+* список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl 
 * коммерческие контакты - `b2b@silverbulleters.org` 
 * `+7(499)346-7019` и '8-800-100-1305'
 
@@ -51,7 +50,10 @@ SonarQube для 1С поддерживает
 * управление приоритетами исправлений
 * управление задачами на исправление
 
-и еще многое другое 
+и еще многое другое - более подробно стоит изучить
+
+* демонстрационные репозиторий https://github.com/silverbulleters/sonar-bsl-demo
+* документацию на русском https://sonar-russian.silverbulleters.org/
 
 ## Техническая информация и план релизов
 
