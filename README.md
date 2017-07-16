@@ -1,8 +1,9 @@
 # Sonar 1C BSL Public
 
-[![Gitter](https://badges.gitter.im/silverbulleters/sonar-1c-bsl-public.svg)](https://gitter.im/silverbulleters/sonar-1c-bsl-public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Direct Plugin Chat   | SonarQube-Russian-Chat |
+:-------------------:|:----------------------:|
+[![Gitter Chat https://gitter.im/silverbulleters/sonar-1c-bsl-public](https://badges.gitter.im/silverbulleters/sonar-1c-bsl-public.svg)](https://gitter.im/silverbulleters/sonar-1c-bsl-public)            | [![Gitter Chat https://gitter.im/sonarqube-ru/public](https://badges.gitter.im/Join-Chat.svg)](https://gitter.im/sonarqube-ru/public)           |
 
-[Vanessa Torpedo](https://www.silverbulleters.org/sonarqube/)
 
 ## English
 
@@ -24,6 +25,8 @@ this is public repository and page for
 * request checks via Vanessa Torpedo 
 * release anonsements
 * social activity for SonarQube Russia
+
+english landing page - [Vanessa Torpedo](https://silverbulleters.org/sonarqube_eng)
 
 ## Russian
 
